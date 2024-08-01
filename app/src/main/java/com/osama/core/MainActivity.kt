@@ -42,6 +42,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     CoreTheme {
+
         Greeting("Android")
     }
-}
+}Commit for 2024-08-01
